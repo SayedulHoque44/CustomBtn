@@ -1,7 +1,8 @@
 .Wrapper {
   position: absolute;
   max-width: 500px;
-  min-width: 100%;
+  min-width: 100px;
+  text-align: center;
   top: 35px;
   left: 0;
   padding: 3px;

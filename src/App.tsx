@@ -31,7 +31,9 @@ function App() {
         }
       />
       {/* with only text */}
-      <CustomButton text="Menu" InnerContent={"hoverd me!"} />
+      <CustomButton text="Menu" InnerContent={"hoverd me only text!"} />
+      {/* with only text */}
+      <CustomButton text="Menu" InnerContent={"hoverd me3! 🤩"} />
     </div>
   );
 }
